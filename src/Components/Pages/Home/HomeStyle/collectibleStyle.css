@@ -1,0 +1,32 @@
+.collect{
+ width: 20%;   
+ display: flexbox;
+ padding-left: 15px;
+}
+
+#first{
+    height: 75%;
+}
+#second{
+    height: 75%;
+}
+
+#thirdImage
+{
+    height: 75%;
+}
+
+#lastimage{
+    height: 76%;
+}
+
+#fourthimage{
+    height: 75%;
+}
+
+#collectibleh2{
+    margin-left: 14px;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+}

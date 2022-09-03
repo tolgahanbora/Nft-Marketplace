@@ -1,0 +1,50 @@
+.footer{
+    background-color:rgb(0,39,55) ;
+    height: 210px;
+    color: white;
+    
+}
+
+
+.icongroup{
+    width: 3%;
+    display: flex;
+    margin-left: 80%;
+    padding: 5px;
+   
+}
+
+#twitter{
+    margin-right: 6px;
+}
+#face{
+    margin-right: 6px;
+}
+
+#discord{
+    margin-right: 6px;
+}
+#medium{
+    margin-right: 6px;
+}
+
+#footerlogo{
+    width: 35%;
+    margin-left: 30%;
+    margin-top: 5%;
+}
+
+
+#footerlist{
+    margin-right: 7%;
+    
+}
+
+#created{
+    padding-right: 0px;
+    padding-left: 5%;
+}
+
+#created2{
+    color: #4154F1;
+}

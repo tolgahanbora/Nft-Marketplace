@@ -1,0 +1,34 @@
+#artmarketplace{
+    width: auto;
+    background-image: url("file:///C:/Users/Tolgahan/Downloads/Ads%C4%B1z%20tasar%C4%B1m%20(3).png");
+    width: 97%;
+    height: 340px;
+    margin-left: 27px;
+    
+    margin-top: 45px;
+}
+
+#marketplacetext{
+    padding-right: 60%;
+    padding-top: 8%;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#icons{
+   position: absolute;
+   margin-right: 500px;
+}
+
+#marketplaceText{
+    padding-left: 21%;
+}
+
+#martetplacefirst{
+    color: #ffe140 ;
+    padding-right: 10%;
+}
+
+#shopBTN{
+    margin-right: 28%;
+}

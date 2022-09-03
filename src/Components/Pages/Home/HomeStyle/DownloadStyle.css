@@ -1,0 +1,78 @@
+#artgallery{
+    width: 100%;
+}
+
+.deneme{
+    background-color: rgb(0,47,67);
+    color: white;
+ 
+}
+
+.card{
+    margin-top: 20px;
+    margin-left: 15px;
+    width: 98%;
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+#downloadsh2{
+    margin-top: 50px;
+    margin-left: 17px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+#firstcard{
+    padding-bottom: 10%;
+}
+
+#secondcard{
+    padding-bottom: 8%;
+}
+
+#thirdcard{
+    padding-bottom: 6%;
+}
+
+#textfirst{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+#textsecond{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+#textthird{
+    padding-left: 25px;
+    padding-top: 25px;
+}
+
+#firstcard{
+    padding-bottom: 10%;
+}
+
+#secondcard{
+    padding-bottom: 10%;
+}
+
+#thirdcard{
+    padding-bottom: 10%;
+}
+#firstbtn2{
+   margin-top: 12%;
+}
+
+#secondbtn{
+    margin-top: 6%;
+}
+
+#thirdbtn{
+    margin-top: 13%;
+}
+
+.downloadimg{
+    width: 405px;
+    height: 270px;
+}

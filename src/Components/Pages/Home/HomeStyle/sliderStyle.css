@@ -1,0 +1,42 @@
+#texts{
+    padding-top: 180px;
+    padding-bottom: 180px;
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+#texts{
+    background-image: url("file:///C:/Users/Tolgahan/Documents/Yaz%C4%B1l%C4%B1m/Siteler/Bootstrap/React/nft-consulting/src/Components/Pages/Home/ready%20to%20date%20ready%20to%20date%20(712%20%C3%97%20430%20piksel)%20(712%20%C3%97%20430%20piksel)%20(1200%20%C3%97%20724%20piksel).png");
+  background-size: cover;
+    
+}
+#denmes{
+background-color: black;
+}
+.text{
+    color:white ;
+}
+
+#sliderfirst{
+    color:#ffe140;
+    padding-right: 25%;
+    
+}
+
+#textbig{
+    padding-right: 9%;
+    padding-top: 15px;
+}
+
+#sliderbtn{
+    margin-right: 40%;
+}
+
+#world{
+    position:absolute;
+    width: 35%;
+    top: 95px;
+    left: 50%;
+}
